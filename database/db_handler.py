@@ -1,6 +1,3 @@
-"""
-Database handler module for SQLite operations
-"""
 import sqlite3
 import logging
 
